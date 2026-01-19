@@ -66,24 +66,6 @@ $$Guven_{yeni} = (Guven_{eski} \times 0.7) + (AnlikSkor \times 0.3)$$
 Bu sayede ibre ve sonuç yazısı anlık değişimlerden etkilenmez, kararlı bir ölçüm sunar.
 
 ---
-
-
-## 🚀 Kurulum ve Çalıştırma
-
-Projeyi kendi bilgisayarınızda çalıştırmak için:
-
-1.  Bu repoyu indirin:
-    ```bash
-    git clone [https://github.com/vhamzab/Fruit-Freshness-Detection-MATLAB.git)
-    ```
-2.  **MATLAB**'ı açın (R2020a veya üzeri önerilir).
-3.  Gerekli eklentilerin yüklü olduğundan emin olun:
-    * *Deep Learning Toolbox*
-    * *Computer Vision Toolbox*
-    * *AlexNet Support Package*
-4.  `MeyveGUI.mlapp` dosyasını çalıştırın.
-5.  Eğer eğitilmiş model (`FinalProjeModelim.mat`) klasördeyse sistem direkt açılacaktır.
-
 ---
 
 ## 📚 Referanslar
@@ -97,4 +79,5 @@ Projeyi kendi bilgisayarınızda çalıştırmak için:
 
 
 **Geliştiriciler:** [VAHİT HAMZA BARAN] & [NURAN ERGENÇ]
+
 
