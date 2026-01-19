@@ -74,7 +74,7 @@ Projeyi kendi bilgisayarınızda çalıştırmak için:
 
 1.  Bu repoyu indirin:
     ```bash
-    git clone [https://github.com/kullaniciadi/Meyve-Tazelik-Tespiti.git](https://github.com/kullaniciadi/Meyve-Tazelik-Tespiti.git)
+    git clone [https://github.com/vhamzab/Fruit-Freshness-Detection-MATLAB.git)
     ```
 2.  **MATLAB**'ı açın (R2020a veya üzeri önerilir).
 3.  Gerekli eklentilerin yüklü olduğundan emin olun:
@@ -97,3 +97,4 @@ Projeyi kendi bilgisayarınızda çalıştırmak için:
 
 
 **Geliştiriciler:** [VAHİT HAMZA BARAN] & [NURAN ERGENÇ]
+
