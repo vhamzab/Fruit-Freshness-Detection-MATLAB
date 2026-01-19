@@ -66,7 +66,6 @@ $$Guven_{yeni} = (Guven_{eski} \times 0.7) + (AnlikSkor \times 0.3)$$
 Bu sayede ibre ve sonuç yazısı anlık değişimlerden etkilenmez, kararlı bir ölçüm sunar.
 
 ---
----
 
 ## 📚 Referanslar
 
@@ -79,5 +78,6 @@ Bu sayede ibre ve sonuç yazısı anlık değişimlerden etkilenmez, kararlı bi
 
 
 **Geliştiriciler:** [VAHİT HAMZA BARAN] & [NURAN ERGENÇ]
+
 
 
