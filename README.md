@@ -95,4 +95,5 @@ Projeyi kendi bilgisayarınızda çalıştırmak için:
 5. *Dubey, S. R., & Jalal, A. S. (2016). Apple disease classification using color, texture and shape features from images. Signal, Image and Video Processing, 10(5), 819-826.
 ---
 
-**Geliştiriciler:** [vAHİT HAMZA BARAN] & [NURAN ERGENÇ]
+
+**Geliştiriciler:** [VAHİT HAMZA BARAN] & [NURAN ERGENÇ]
